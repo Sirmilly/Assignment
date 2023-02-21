@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>welcome to my html class</title>
+</head>
+    <header>
+          <nav>
+          <a href="index.html">Home Page</a><br>
+          <a href="aboutUs.html">AboutUs</a><br>
+          <a href="mentor.html">Mentor</a><br>
+          <a href="chess.html">Chess</a><br>
+          <a href="scores.html">Scores</a>
+          </nav>
+    </header>
+.all{
+    width: 500px;
+    height: 500px;
+    border size: 2px;
+    margin: auto;
+    border-style: outset;
+}
+.whole{
+    display: flex;
+    margin: auto;
+}
+
+.box1{
+width: 100px;
+height: 100px;
+background-color: black;
+}
+.box2{
+width: 100px;
+height: 100px;
+background-color: white;
+}
+h1
+{
+    text-align: center;
+}
+p{
+    text-size: 50px
+    color: green;
+}
